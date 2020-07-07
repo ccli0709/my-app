@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-tryit": {
+      "hosting": {
+        "my-app": [
+          "ng-tryit"
+        ]
+      }
+    }
+  }
+}
